@@ -12,7 +12,7 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-    <h2>NETFLIX SIGN IN V-3.0</h2>
+    <h2>NETFLIX SIGN IN V-4.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
@@ -22,7 +22,7 @@
                 <input type="password" required>
                 <label>SECRET</label>
             </div>
-            <button type="submit">O P E N  NETFLIX V-8</button>
+            <button type="submit">WELCOME TO NETFLIX V-4</button>
             <div class="form-help"> 
                 <div class="remember-me">
                     <input type="checkbox" id="remember-me">
